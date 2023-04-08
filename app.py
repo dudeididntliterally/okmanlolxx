@@ -1,3 +1,7 @@
+'''
+Author: ††#3344
+Discord ID: 576422773694660608
+'''
 import json
 import time
 import string
